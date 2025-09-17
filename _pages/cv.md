@@ -3,8 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 Here is my full [CV](https://alexanderkagan.github.io/files/KaganCV.pdf)
@@ -36,20 +34,6 @@ Sanofi, Summer 2024
 
 **Junior Data Scientist**, Juicy Labs, Moscow, Russia
 - Developed new credit scoring models using linear regression, random forest, and boosting  
-
-
-Presentations
-======
-- **CFE-CMStatistics** – London, UK (2024)
-- **Joint Statistical Meetings** – Portland, OR, USA (2024)
-- **Joint Statistical Meetings** – Toronto, ON, Canada (2023)
-
-### Posters
-- **Statistical Network Analysis and Beyond** (*Best poster award*) – Anchorage, AK, USA (2023)
-- **ICSA Applied Statistics Symposium** (*Honorable mention*) – Ann Arbor, MI, USA (2023)
-- **MSSISS** (*Best poster award*) – Ann Arbor, MI, USA (2023)
-
-
 
 Service and leadership
 ======
