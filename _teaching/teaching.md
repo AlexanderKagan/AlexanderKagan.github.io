@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
+author_profile: true
 ---
 
 **Graduate Student Instructor**, University of Michigan  
