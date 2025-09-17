@@ -1,3 +1,13 @@
+---
+title: "About Me"
+permalink: /
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+
 Hi! My name is Alex, I am a 5th year PhD student in Statistics at the University of Michigan, co-advised by Liza Levina and Ji Zhu. Previously, I did my undergrads in Mathematics at Higher School of Economics and masters in Computer Science at Skoltech, both in Moscow, Russia.
 
 My research interests lie broadly in the intersection of statistical network analysis and bioinformatics, mainly focusing on:

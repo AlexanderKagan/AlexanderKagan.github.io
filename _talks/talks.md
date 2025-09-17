@@ -1,11 +1,14 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
-collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, CA, USA"
+title: "Presentations and Posters"
+permalink: /talks/talks
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+### Presentations
+- **CFE-CMStatistics** – London, UK (2024)
+- **Joint Statistical Meetings** – Portland, OR, USA (2024)
+- **Joint Statistical Meetings** – Toronto, ON, Canada (2023)
+
+### Posters
+- **Statistical Network Analysis and Beyond** (*Best poster award*) – Anchorage, AK, USA (2023)
+- **ICSA Applied Statistics Symposium** (*Honorable mention*) – Ann Arbor, MI, USA (2023)
+- **MSSISS** (*Best poster award*) – Ann Arbor, MI, USA (2023)

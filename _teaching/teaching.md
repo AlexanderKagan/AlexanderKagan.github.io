@@ -1,5 +1,9 @@
-Teaching
-======
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/teaching
+---
+
 **Graduate Student Instructor**, University of Michigan  
 
 - *Data Science 415: Data Mining and Statistical Learning* (upper undergraduate level) — Fall 2025  
