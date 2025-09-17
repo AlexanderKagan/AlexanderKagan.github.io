@@ -21,7 +21,7 @@ Sanofi, Summer 2024
 - Developed statistical tools based on Temporal Graph Neural Networks for discovering new biomarkers governing the patient’s recovery process, with applications to psoriasis and Crohn’s disease  
 
 
-**Research Assistant** (*advised by Prof. Leon Peshkin*), Kirshner Lab, Harvard Medical School, Jan 2021 – Apr 2024  
+**Research Assistant** (*advised by Prof. Leon Peshkin*), Kirshner Lab, Harvard Medical School, Jan. 2021 – Apr. 2024  
 - Led a group of three MSc students developing hierarchical variable selection methods for classification problems with extensive dropouts (e.g., cell-type prediction with single-cell data)  
 - Supervised two Ph.D. students applying Active Learning methods to identify the optimal order of sequential phenotype-to-drug response measurements  
 - Developed function-on-function regression methods for phenotype prediction given kinase responses to drugs in multiple doses  
@@ -32,7 +32,7 @@ Sanofi, Summer 2024
 - Developed dimension reduction techniques allowing robust extraction of cancer biomarkers from patient’s proteomics and metabolomics measurements  
 
 
-**Junior Data Scientist**, Juicy Labs, Moscow, Russia
+**Junior Data Scientist**, Juicy Labs, July 2019 - Feb. 2020
 - Developed new credit scoring models using linear regression, random forest, and boosting  
 
 Service and leadership
