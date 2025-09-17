@@ -1,7 +1,6 @@
 ---
 title: "Presentations & Posters"
 permalink: /talks/
-collection: talks
 author_profile: true
 ---
 
