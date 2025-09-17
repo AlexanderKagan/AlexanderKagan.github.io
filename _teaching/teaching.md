@@ -2,6 +2,9 @@
 title: "Teaching"
 collection: teaching
 permalink: /teaching/
+date: ""
+location: ""
+institution: ""
 ---
 
 **Graduate Student Instructor**, University of Michigan  

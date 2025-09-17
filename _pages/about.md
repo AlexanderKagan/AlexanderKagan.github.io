@@ -18,4 +18,4 @@ My research interests lie broadly in the intersection of statistical network ana
 - Hierarchical feature selection for prediction problems with extensive drop-outs, motivated by proteomics and aging  
 
 
-Here is my [CV](https://alexanderkagan.github.io/files/KaganCV.pdf)
+Here is my [CV](https://alexanderkagan.github.io/files/KaganCV.pdf).
