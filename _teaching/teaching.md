@@ -1,8 +1,7 @@
 ---
-layout: archive
-collection: teaching
 title: "Teaching"
-permalink: /teaching/teaching
+collection: teaching
+permalink: /teaching/
 ---
 
 **Graduate Student Instructor**, University of Michigan  

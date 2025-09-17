@@ -1,7 +1,8 @@
 ---
 title: "Publications"
+permalink: /publications/
 collection: publications
-permalink: /publication/
+author_profile: true
 ---
 
 ### Published
