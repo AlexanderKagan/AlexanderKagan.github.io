@@ -1,5 +1,9 @@
-Publications
-======
+---
+title: "Publications"
+collection: publications
+permalink: /publication/
+---
+
 ### Published
 - Noe, M., Parisi, E., Rifat, S., Navitskis, L., Conway, D., Deshmukh, A., **Kagan, A.**, Millward, D., Chung, E.  
   *Comparison of 1st Year and 3rd Year ECGs in Collegiate Athletes.*  
