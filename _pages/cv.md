@@ -5,14 +5,14 @@ permalink: /cv/
 author_profile: true
 ---
 
-Here is my full [CV](https://alexanderkagan.github.io/files/KaganCV.pdf)
+Here is my full [CV](https://alexanderkagan.github.io/files/KaganCV.pdf).
 
 Education
 ======
-* **Ph.D in Statistics** (advised by Liza Levina & Ji Zhu), University of Michigan, 2026
-* **M.S. in Computer Science**, Skolkovo Institute of Science and Technology, 2021
-* **M.S. in Data Science**, Yandex School of Data Analysis, 2021
-* **B.S. in Mathematics**, National Research University Higher School of Economics, 2020
+* **Ph.D in Statistics** (advised by Liza Levina & Ji Zhu), University of Michigan, 2021-2026
+* **M.S. in Computer Science** (unfinished), Skolkovo Institute of Science and Technology, 2020-2021
+* **M.S. in Data Science**, Yandex School of Data Analysis, 2019-2021
+* **B.S. in Mathematics**, National Research University Higher School of Economics, 2016-2020
 
 Work experience
 ======
@@ -37,5 +37,5 @@ Sanofi, Summer 2024
 
 Service and leadership
 ======
-* Outstanding Student Service Award (2025) granted by UM Stats Department for chairing the organizing committee of MSSISS, an annual 150-person statistics symposium
+* Outstanding Student Service Award (2025) granted by UM Stats Department for chairing the organizing committee of MSSISS, an annual 150-person statistics symposium held in Ann Arbor, MI.
 * Organizing volunteer of International Chinese Statistical Association (ICSA) and Michael Woodroofe Memorial Conference in Ann Arbor, MI (2023)
