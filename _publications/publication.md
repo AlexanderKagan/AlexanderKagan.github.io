@@ -12,7 +12,7 @@ author_profile: true
 
 ---
 
-### Under Review or Preprinted
+### Under Review
 - **Kagan, A.**, Levina, E., Zhu, J. (2025+)  
   *Flexible Modeling of Influence Propagation through a Network with Statistical Guarantees.*  
   Under review at JMLR, [arXiv preprint](https://arxiv.org/abs/2411.09100).  
