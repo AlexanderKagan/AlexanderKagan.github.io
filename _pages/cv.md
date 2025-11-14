@@ -10,7 +10,7 @@ Here is my full [CV](https://alexanderkagan.github.io/files/KaganCV.pdf).
 Education
 ======
 * **Ph.D in Statistics** (advised by Liza Levina & Ji Zhu), University of Michigan, 2021-2026
-* **M.S. in Computer Science** (unfinished), Skolkovo Institute of Science and Technology, 2020-2021
+* **M.S. in Computer Science**, Skolkovo Institute of Science and Technology, 2020-2021
 * **M.S. in Data Science**, Yandex School of Data Analysis, 2019-2021
 * **B.S. in Mathematics**, National Research University Higher School of Economics, 2016-2020
 
@@ -22,10 +22,9 @@ Sanofi, Summer 2024
 
 
 **Research Assistant** (*advised by Prof. Leon Peshkin*), Kirshner Lab, Harvard Medical School, Jan. 2021 – Apr. 2024  
-- Led a group of three MSc students developing hierarchical variable selection methods for classification problems with extensive dropouts (e.g., cell-type prediction with single-cell data)  
-- Supervised two Ph.D. students applying Active Learning methods to identify the optimal order of sequential phenotype-to-drug response measurements  
-- Developed function-on-function regression methods for phenotype prediction given kinase responses to drugs in multiple doses  
-- Developed automatic cell nuclei detection methods for liver images using UNet CNNs  
+- Developed a universal *Kinome Regularization* framework for detecting kinases governing a given phenotype  
+- Built a deep-learning framework for automatic detection and annotation of cell organelles in liver images
+- Led a group of 3 MSc students developing supervised hierarchical variable selection methods for bulk \& single-cell data
 
 
 **Research Intern** (*advised by Prof. Christoph Borchers*), MRM Proteomics, Summer 2021  
@@ -37,5 +36,12 @@ Sanofi, Summer 2024
 
 Service and leadership
 ======
-* Outstanding Student Service Award (2025) granted by UM Stats Department for chairing the organizing committee of MSSISS, an annual 150-person statistics symposium held in Ann Arbor, MI.
-* Organizing volunteer of International Chinese Statistical Association (ICSA) and Michael Woodroofe Memorial Conference in Ann Arbor, MI (2023)
+
+- **Organizing Committee Chair of MSSISS Statistics Symposium (2024–2025)**  
+  Received an Outstanding Graduate Student Service Award for chairing the organizing committee of MSSISS, an annual statistics symposium for ~150 people at the University of Michigan. Responsibilities included student and keynote speaker invitations, funding requests, catering coordination, website maintenance, and booklet preparation.
+
+- **Levina–Zhu Research Group Admin (2022–2025)**  
+  Responsible for research-group logistics: scheduling weekly reading-group presentations, organizing and maintaining the group’s Google Drive, website, and networks-literature database.
+
+- **Organizing Volunteer at ICSA Statistics Symposium (June 2023)**  
+  Assisted conference participants with registration and general logistics.
