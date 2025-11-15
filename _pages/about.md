@@ -15,7 +15,7 @@ My research interests lie broadly in the intersection of **statistical network a
 - Modeling shared and group latent structures in collections of networks with applications to neuroscience
 - Modeling of information diffusion on networks with applications to epidemiology and influence maximization
 - Cross-validation and model selection in network-assisted regression problems
-- Hierarchical feature selection in supervised and semi-supervised settings with applications to biomarker discovery
+- Deep learning for biomarker discovery from temporal, functional, network-linked, and/or hierarchically structured data.
 
 
 Here is my [CV](https://alexanderkagan.github.io/files/AcademicCV.pdf).
