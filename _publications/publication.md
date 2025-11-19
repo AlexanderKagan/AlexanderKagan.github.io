@@ -23,8 +23,8 @@ author_profile: true
   Under review at Bioinformatics, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2025.10.20.683402v1).
 
 - **Kagan, A.**, MacDonald, P., Levina, E., Zhu, J. (2025+)  
-  *Latent Space Models for Grouped Multiplex Networks with Shared Structure.*  
-  Under review at JMLR, [arXiv preprint](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Latent+space+models+for+grouped+multiplex+networks&terms-0-field=title&classification-computer_science=y&classification-physics_archives=all&classification-statistics=y&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2025-11-12&date-to_date=2025-11-17&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first).  
+  *Latent Space Models for Grouped Multiplex Networks.*  
+  Under review at JMLR, [arXiv preprint](https://www.arxiv.org/abs/2511.11086).  
   (Honorable mention for a poster at SNAB-2024)
 
 - Nano, M., Harwood, J., **Kagan, A.**, Lukaszewicz, G., Kirschner, M., Peshkin, L., Montell, D. (2025+)  
