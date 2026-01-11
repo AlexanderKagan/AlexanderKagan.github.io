@@ -7,6 +7,10 @@ author_profile: true
 
 **Graduate Student Instructor**, University of Michigan  
 
+- *STATS 601: Advanced Statistical Learning* (Ph.D. level) — Winter 2026  
+  - Develop and teach weekly labs (~30 students), hold office hours, grade homework, and exams
+
+
 - *Data Science 415: Data Mining and Statistical Learning* (upper undergraduate level) — Fall 2025  
   - Taught weekly lab sections (~20 students), created new educational Python notebooks  
 
