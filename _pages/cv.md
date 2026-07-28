@@ -16,6 +16,11 @@ Education
 
 Work experience
 ======
+**Postdoctoral Associate** (*advised by Prof. Hongyu Zhao*),
+Yale School of Public Health, New Haven, CT, USA, July 2026 – Present
+- Developing methods to predict drug toxicity from molecular chemical structures integrated with multi-omics data
+
+
 **R&D Computational Science Intern** (*advised by Prof. Ziv Bar-Joseph*),
 Sanofi, Summer 2024  
 - Developed statistical tools based on Temporal Graph Neural Networks for discovering new biomarkers governing the patient’s recovery process, with applications to psoriasis and Crohn’s disease  
