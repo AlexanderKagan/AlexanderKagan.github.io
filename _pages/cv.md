@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,6 +8,7 @@ Here is my full [CV](https://alexanderkagan.github.io/files/KaganCV.pdf).
 
 
 ## Education
+
 
 
 * **Ph.D in Statistics** (advised by Liza Levina & Ji Zhu), University of Michigan, 2021-2026
