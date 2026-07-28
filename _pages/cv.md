@@ -10,7 +10,6 @@ Here is my full [CV](https://alexanderkagan.github.io/files/KaganCV.pdf).
 ---
 
 Education
-
 ======
 * **Ph.D in Statistics** (advised by Liza Levina & Ji Zhu), University of Michigan, 2021-2026
 * **M.S. in Computer Science**, Skolkovo Institute of Science and Technology, 2020-2021
@@ -20,7 +19,6 @@ Education
 ---
 
 Work experience
-
 ======
 **Postdoctoral Associate** (*advised by Prof. Hongyu Zhao*),
 Yale School of Public Health, July 2026 – Present
@@ -48,7 +46,6 @@ Sanofi, Summer 2024
 --- 
 
 Service and leadership
-
 ======
 
 - **Organizing Committee Chair of MSSISS Statistics Symposium (2024–2025)**  

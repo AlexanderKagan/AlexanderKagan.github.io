@@ -25,6 +25,7 @@ author_profile: true
 - *STATS 426: Introduction to Theoretical Statistics* (upper undergraduate level) — Fall 2021  
   - Held office hours, graded homework and exams  
 
+---
 
 **Teaching Assistant**, National Research University Higher School of Economics  
 
