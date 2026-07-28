@@ -7,7 +7,6 @@ author_profile: true
 
 Here is my full [CV](https://alexanderkagan.github.io/files/KaganCV.pdf).
 
----
 
 ## Education
 
@@ -17,7 +16,6 @@ Here is my full [CV](https://alexanderkagan.github.io/files/KaganCV.pdf).
 * **M.S. in Data Science**, Yandex School of Data Analysis, 2019-2021
 * **B.S. in Mathematics**, National Research University Higher School of Economics, 2016-2020
 
----
 
 ## Work experience
 
@@ -44,7 +42,6 @@ Sanofi, Summer 2024
 **Junior Data Scientist**, Juicy Labs, July 2019 - Feb. 2020
 - Developed new credit scoring models using linear regression, random forest, and boosting  
 
----
 
 ## Service and leadership
 

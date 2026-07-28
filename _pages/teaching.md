@@ -5,8 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
----
+
 **Graduate Student Instructor**, University of Michigan  
+
+---
 
 - *STATS 601: Advanced Statistical Learning* (Ph.D. level) — Winter 2026  
   - Develop and teach weekly labs (~30 students), hold office hours, grade homework, and exams 
