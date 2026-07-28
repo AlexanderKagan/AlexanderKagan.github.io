@@ -4,7 +4,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Here is my full [CV](https://alexanderkagan.github.io/files/KaganCV.pdf).
+Here is my full [CV](https://alexanderkagan.github.io/files/AcademicCV.pdf).
 
 
 # Education
