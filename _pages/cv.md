@@ -7,8 +7,7 @@ author_profile: true
 Here is my full [CV](https://alexanderkagan.github.io/files/KaganCV.pdf).
 
 
-## Education
-
+# Education
 
 
 * **Ph.D in Statistics** (advised by Liza Levina & Ji Zhu), University of Michigan, 2021-2026
@@ -17,7 +16,7 @@ Here is my full [CV](https://alexanderkagan.github.io/files/KaganCV.pdf).
 * **B.S. in Mathematics**, National Research University Higher School of Economics, 2016-2020
 
 
-## Work experience
+# Work experience
 
 **Postdoctoral Associate** (*advised by Prof. Hongyu Zhao*),
 Yale School of Public Health, July 2026 – Present
@@ -43,7 +42,7 @@ Sanofi, Summer 2024
 - Developed new credit scoring models using linear regression, random forest, and boosting  
 
 
-## Service and leadership
+# Service and leadership
 
 - **Organizing Committee Chair of MSSISS Statistics Symposium (2024–2025)**  
   Received an Outstanding Graduate Student Service Award for chairing the organizing committee of MSSISS, an annual statistics symposium for ~150 people at the University of Michigan. Responsibilities included student and keynote speaker invitations, funding requests, catering coordination, website maintenance, and booklet preparation.
