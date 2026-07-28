@@ -7,17 +7,23 @@ author_profile: true
 
 Here is my full [CV](https://alexanderkagan.github.io/files/KaganCV.pdf).
 
+---
+
 Education
+
 ======
 * **Ph.D in Statistics** (advised by Liza Levina & Ji Zhu), University of Michigan, 2021-2026
 * **M.S. in Computer Science**, Skolkovo Institute of Science and Technology, 2020-2021
 * **M.S. in Data Science**, Yandex School of Data Analysis, 2019-2021
 * **B.S. in Mathematics**, National Research University Higher School of Economics, 2016-2020
 
+---
+
 Work experience
+
 ======
 **Postdoctoral Associate** (*advised by Prof. Hongyu Zhao*),
-Yale School of Public Health, New Haven, CT, USA, July 2026 – Present
+Yale School of Public Health, July 2026 – Present
 - Developing methods to predict drug toxicity from molecular chemical structures integrated with multi-omics data
 
 
@@ -39,7 +45,10 @@ Sanofi, Summer 2024
 **Junior Data Scientist**, Juicy Labs, July 2019 - Feb. 2020
 - Developed new credit scoring models using linear regression, random forest, and boosting  
 
+--- 
+
 Service and leadership
+
 ======
 
 - **Organizing Committee Chair of MSSISS Statistics Symposium (2024–2025)**  
