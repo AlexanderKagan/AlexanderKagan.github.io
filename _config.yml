@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Alexander Kagan"
   pronouns         : # example: "she/her"
-  bio              : "Statistics PhD Candidate at the University of Michigan"
-  location         : "Ann Arbor, MI, USA"
+  bio              : "Postdoctoral Associate at Yale School of Public Health"
+  location         : "New Haven, CT"
   employer         :
   uri              : # URL
-  email            : "amkagan@umich.edu"
+  email            : "alexander.kagan@yale.edu"
 
   # Academic websites
   academia         : # URL

@@ -31,7 +31,7 @@ Sanofi, Summer 2024
 **Research Assistant** (*advised by Prof. Leon Peshkin*), Kirshner Lab, Harvard Medical School, Jan. 2021 – Apr. 2024  
 - Developed a universal *Kinome Regularization* framework for detecting kinases governing a given phenotype  
 - Built a deep-learning framework for automatic detection and annotation of cell organelles in liver images
-- Led a group of 3 MSc students developing supervised hierarchical variable selection methods for bulk \& single-cell data
+- Led a group of 3 MSc students developing supervised hierarchical variable selection methods for bulk & single-cell data
 
 
 **Research Intern** (*advised by Prof. Christoph Borchers*), MRM Proteomics, Summer 2021  
